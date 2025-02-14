@@ -1,1 +1,2 @@
 this is my file to learn git course
+added more content in file one 
