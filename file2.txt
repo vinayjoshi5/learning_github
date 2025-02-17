@@ -2,3 +2,5 @@ this is my file 2 to learn git course
 making change to see what happend next 
 
 now again more work is done gir
+
+git add something 
